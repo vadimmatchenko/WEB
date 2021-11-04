@@ -1,0 +1,70 @@
+body {
+    
+    background-image: url(/88.jpg);
+    color:white;
+
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.avatar {
+    width: 400px;
+    border-radius: 28px;
+    
+}
+.info p {
+    color: white;
+    margin: 0;
+    font-weight:bold ;
+}
+.info {
+    display: flex;
+}
+.info-text {
+    margin-left: 40px;
+    
+}
+
+.social {
+    padding: 15px;
+
+}
+.container {
+    max-width: 75%;
+    margin: auto;
+    padding-top: 30px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 228, 196, 0.10);  
+}
+
+
+}
+.contact h2{
+    
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.top {
+    text-align: left;
+}
+h2.top1 {
+    text-align: left;
+}
